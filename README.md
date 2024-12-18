@@ -20,7 +20,7 @@ A modern, animated, and fully responsive portfolio website built to showcase ski
 
 ## 🌟 Live Demo  
 
-![Website Preview](https://portfoilo-pied.vercel.app/)  
+[Website Preview](https://portfoilo-pied.vercel.app/)  
 
 ## 📂 Folder Structure  
 
