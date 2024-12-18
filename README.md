@@ -1,4 +1,4 @@
-# Portfolio-Pied  
+# Portfolio
 
 A modern, animated, and fully responsive portfolio website built to showcase skills, projects, and professional achievements. This website is designed with a clean layout, dynamic animations, and optimized performance for seamless user experience across all devices.  
 
